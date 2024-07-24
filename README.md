@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayça</h1>
 <h3 align="center">I'm a student at Yıldız Technical University</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, React, JavaScript, Next.js**
 
 - 📫 How to reach me **a.betul.celebi@gmail.com**
 
